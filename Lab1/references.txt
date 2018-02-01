@@ -1,0 +1,7 @@
+General list operations: https://en.wikibooks.org/wiki/Scheme_Programming/List_Operations
+
+Difference between map and apply: https://stackoverflow.com/questions/27488723/what-is-the-difference-between-map-and-apply-in-scheme
+
+Compose: https://docs.racket-lang.org/reference/procedures.html
+
+
